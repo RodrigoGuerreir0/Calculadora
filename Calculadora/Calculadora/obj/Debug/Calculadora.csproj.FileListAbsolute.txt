@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
